@@ -4,8 +4,6 @@
 
 *Institutional-Grade Quantitative Trading Infrastructure*
 
-> **Note:** This is a wrapper repository showcasing the framework's capabilities. The complete codebase including proprietary strategies is available for collaboration inquiries. Contact: raphaelkarmalker@gmail.com
-
 ---
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
@@ -22,6 +20,8 @@
 ---
 
 ## Overview
+
+> **⚠️ Portfolio Repository:** This is a showcase repository demonstrating the framework architecture and capabilities. The complete implementation including proprietary trading strategies, live execution code, and internal tools is maintained in a private repository. For collaboration or access inquiries, contact: **raphaelkarmalker@gmail.com**
 
 **AlgorithmicTrader** is a professional-grade quantitative trading framework built on top of [NautilusTrader](https://nautilustrader.io) — a high-performance backtesting and live trading engine written in Rust with Python bindings.
 
